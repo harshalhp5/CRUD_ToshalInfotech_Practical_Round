@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+
+th {
+    background-color : lavender;
+    
+}
+
+#button {
+    background-color: greenyellow;
+}
+
+#editBtn {
+    background-color: yellow;
+}
+
+#deleteBtn {
+    background-color: tomato;
+}
